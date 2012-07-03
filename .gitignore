@@ -1,0 +1,9 @@
+*.pyc
+
+versiontools-1.9.1-py2.6.egg/*
+django_sampledatahelper.egg-info/*
+build/*
+dist/*
+
+*project
+*pydevproject
